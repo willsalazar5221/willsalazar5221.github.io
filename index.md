@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome
+stylesheet: assets/css/style.scss
 ---
 
 # Hello!
