@@ -2,3 +2,10 @@ title: William's Site
 theme: minima
 markdown: kramdown
 description: Creating Github website
+
+sass:
+  style: compressed
+
+# Add this to use your stylesheet:
+include:
+  - assets/css/style.scss
