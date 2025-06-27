@@ -3,9 +3,9 @@ theme: minima
 markdown: kramdown
 description: Creating Github website
 
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
-# Add this to use your stylesheet:
-include:
-  - assets/css/style.scss
+# # Add this to use your stylesheet:
+# include:
+#   - assets/css/style.scss
