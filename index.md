@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Welcome
 stylesheet: assets/css/style.scss
 ---
