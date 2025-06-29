@@ -4,6 +4,17 @@ title: Welcome
 stylesheet: assets/css/style.scss
 ---
 
+<style>
+.glow-on-hover {
+  transition: box-shadow 0.3s ease;
+}
+
+.glow-on-hover:hover {
+  box-shadow: 0 0 12px 3px rgba(155, 89, 182, 0.6); /* soft purple glow */
+}
+</style>
+
+
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
 
   <div style="flex: 2; min-width: 250px;">
@@ -14,8 +25,9 @@ stylesheet: assets/css/style.scss
 
   <div style="flex: 1; min-width: 250px;">
     <img 
-      src="/assets/img/profile_pic_crop.JPG" 
-      alt="Portrait" 
+      src="/assets/img/profile_pic.png" 
+      alt="Portrait"
+      class="glow-on-hover"
       style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #9b59b6;">
   </div>
 
