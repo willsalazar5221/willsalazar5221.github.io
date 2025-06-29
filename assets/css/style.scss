@@ -3,11 +3,11 @@
 
 @import "minima";
 
-// Slightly widen the content area
-.wrapper {
-  max-width: 1000px; // Default is 700px
+// Make the whole site layout wider
+body {
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 2rem 1rem;
 }
 
 // Your custom styles below
