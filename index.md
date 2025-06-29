@@ -16,7 +16,7 @@ stylesheet: assets/css/style.scss
     <img 
       src="/assets/img/profile_pic_crop.JPG" 
       alt="Portrait" 
-      style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid black; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #9b59b6;">
   </div>
 
 </div>
