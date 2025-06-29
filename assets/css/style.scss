@@ -3,6 +3,13 @@
 
 @import "minima";
 
+// Slightly widen the content area
+.wrapper {
+  max-width: 1000px; // Default is 700px
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
 // Your custom styles below
 
 body {
@@ -22,11 +29,4 @@ nav {
   background: #f4f4f4;
   padding: 10px;
   border-bottom: 1px solid #ccc;
-}
-
-// Slightly widen the content area
-.wrapper {
-  max-width: 1000px; // Default is 700px
-  margin: 0 auto;
-  padding: 1.5rem;
 }
