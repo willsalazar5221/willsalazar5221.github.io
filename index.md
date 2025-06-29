@@ -11,6 +11,7 @@ stylesheet: assets/css/style.scss
 
 .glow-on-hover:hover {
   box-shadow: 0 0 12px 3px rgba(155, 89, 182, 0.6); /* soft purple glow */
+  transform: scale(1.05); /* 5% bigger */
 }
 </style>
 
