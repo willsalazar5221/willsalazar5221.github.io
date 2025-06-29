@@ -23,3 +23,10 @@ nav {
   padding: 10px;
   border-bottom: 1px solid #ccc;
 }
+
+// Slightly widen the content area
+.wrapper {
+  max-width: 1000px; // Default is 700px
+  margin: 0 auto;
+  padding: 1.5rem;
+}
