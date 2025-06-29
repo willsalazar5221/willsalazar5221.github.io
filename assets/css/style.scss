@@ -3,6 +3,13 @@
 
 @import "minima";
 
+// Custom wrapper width
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
 // Make the whole site layout wider
 body {
   max-width: 1200px;
