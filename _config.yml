@@ -1,7 +1,7 @@
-title: William's Site
+title: William B. Salazar's Site
 theme: minima
 markdown: kramdown
-description: Creating Github website
+description: Cool Github website
 
 sass:
   style: compressed
