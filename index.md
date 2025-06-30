@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: wide
 title: Welcome
 stylesheet: assets/css/style.scss
 ---
