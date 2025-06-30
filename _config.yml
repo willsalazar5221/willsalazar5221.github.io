@@ -9,3 +9,18 @@ sass:
 # Add this to use your stylesheet:
 include:
   - assets/css/style.scss
+
+# Point to your custom stylesheet
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# This ensures Jekyll uses your new CSS
