@@ -9,3 +9,4 @@ sass:
 # Add this to use your stylesheet:
 include:
   - assets/css/style.scss
+  - _includes/head-custom.html
