@@ -3,24 +3,10 @@
 
 @import "minima";
 
-// Custom wrapper width
-// .wrapper {
-//   max-width: 1000px !important;
-//   width: 100%;
-//   margin: 0 auto;
-//   padding: 1.5rem;
-// }
-
-body {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-  background-color: #fefcf9;
-  font-family: 'Georgia', serif;
-}
-
-.inner {
-  max-width: 75%;
+// Override minima's default layout max-width
+.wrapper {
+  max-width: 1200px; // Change this value as needed
+  width: 90%;        // Optional: adds some margin on smaller screens
 }
 
 h1, h2, h3 {
