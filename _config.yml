@@ -7,5 +7,5 @@ sass:
   style: compressed
 
 # Add this to use your stylesheet:
-# include:
-#   - assets/css/style.scss
+include:
+  - assets/css/style.scss
