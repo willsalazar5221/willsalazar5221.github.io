@@ -25,11 +25,15 @@ stylesheet: assets/css/style.scss
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <img 
-      src="/assets/img/profile_pic.png" 
-      alt="Portrait"
-      class="glow-on-hover"
-      style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #9b59b6;">
+    <figure style="text-align: center;">
+      <img 
+        src="/assets/img/profile_pic.png" 
+        alt="Portrait" 
+        class="glow-on-hover"
+        style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #9b59b6;">
+      <figcaption style="margin-top: 0.5rem; color: #555; font-size: 0.9rem;">
+        This is me, looking slightly over to the left.
+      </figcaption>
+    </figure>
   </div>
-
 </div>
