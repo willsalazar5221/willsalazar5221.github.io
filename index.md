@@ -25,7 +25,7 @@ stylesheet: assets/css/style.scss
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <figure style="text-align: center;">
+    <figure style="display: flex; flex-direction: column; align-items: center;">
       <img 
         src="/assets/img/profile_pic.png" 
         alt="Portrait" 
