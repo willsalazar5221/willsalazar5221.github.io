@@ -12,6 +12,6 @@ include:
 
 header_pages:
   - index.md
-  - pages/about.md
+  - about.md
   - projects.md
   
