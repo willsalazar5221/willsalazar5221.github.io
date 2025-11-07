@@ -10,7 +10,8 @@ sass:
 include:
   - assets/css/style.scss
 
-  header_pages:
+header_pages:
   - index.md
-  - about.md
+  - pages/about.md
   - projects.md
+  
