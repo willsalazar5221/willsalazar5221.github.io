@@ -22,7 +22,8 @@ stylesheet: assets/css/style.scss
     <h2>Welcome to my website!</h2>
     <ul>
       <li>Current graduate from Cal Poly Pomona with a B.S. in General Physics (with an Astrophysics Emphasis) and in Applied Mathematics and Statistics</li>
-      <li><a href="www.linkedin.com/in/william-salazar-50b673264" target="_blank">LinkedIn</a>.</li>
+      <li><a href="https://www.linkedin.com/in/william-salazar-50b673264" target="_blank">LinkedIn</a>.</li>
+      <li><a href="https://github.com/willsalazar5221" target="_blank">GitHub</a>.</li>
     </ul>
   </div>
 
@@ -36,7 +37,7 @@ stylesheet: assets/css/style.scss
         class="glow-on-hover"
         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #9b59b6;">
       <figcaption style="margin-top: 0.5rem; color: #555; font-size: 0.9rem;">
-        Picture 1. Speech at the 2024 CSU-LSAMP PROUD Scholars Award ceremony.
+        Fig 1. Speech given at the 2024 CSU-LSAMP PROUD Scholars Award ceremony
       </figcaption>
     </figure>
   </div>
