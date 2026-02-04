@@ -27,18 +27,37 @@ stylesheet: assets/css/style.scss
     </ul>
   </div>
 
-
-  <!-- This is the image on the welcome page and the caption -->
-  <div style="flex: 1; min-width: 250px;">
-    <figure style="display: flex; flex-direction: column; align-items: center;">
-      <img 
-        src="/assets/img/profile_pic.png" 
-        alt="Portrait" 
-        class="glow-on-hover"
-        style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #9b59b6;">
-      <figcaption style="margin-top: 0.5rem; color: #555; font-size: 0.9rem;">
-        Fig 1. Speech given at the 2024 CSU-LSAMP PROUD Scholars Award ceremony
-      </figcaption>
-    </figure>
+  <!-- Image + info block -->
+  <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; align-items: center;">
+    <!-- Image -->
+    <img 
+      src="/assets/img/profile_pic.png" 
+      alt="Portrait" 
+      class="glow-on-hover"
+      style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #9b59b6;"
+    >
+    <!-- Caption (still a caption) -->
+    <div style="margin-top: 0.5rem; color: #555; font-size: 0.9rem; text-align: center;">
+      Fig 1. Speech given at the 2024 CSU-LSAMP PROUD Scholars Award ceremony
+    </div>
+    <!-- Info block under photo (NOT a caption) -->
+    <div style="margin-top: 0.75rem; text-align: center;">
+      <div style="font-weight: bold; font-size: 1.15rem;">
+        William Salazar
+      </div>
+      <div style="font-size: 0.9rem; color: #666;">
+        he/him
+      </div>
+      <div style="font-size: 0.95rem; margin-bottom: 0.6rem;">
+        Undergraduate Researcher
+      </div>
+      <ul style="padding-left: 1.2rem; text-align: left;">
+        <li>Computational astrophysics</li>
+        <li>Scientific computing & modeling</li>
+        <li>Data analysis & visualization</li>
+      </ul>
+    </div>
   </div>
+
+  
 </div>
