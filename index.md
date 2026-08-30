@@ -22,8 +22,9 @@ stylesheet: assets/css/style.scss
     <h2>Welcome to my website!</h2>
     <ul>
       <li>Current graduate from Cal Poly Pomona with a B.S. in General Physics (with an Astrophysics Emphasis) and in Applied Mathematics and Statistics</li>
-      <li><a href="https://www.linkedin.com/in/william-salazar-50b673264" target="_blank">LinkedIn</a>.</li>
-      <li><a href="https://github.com/willsalazar5221" target="_blank">GitHub</a>.</li>
+      <li>Computational astrophysics</li>
+      <li>Scientific computing & modeling</li>
+      <li>Data analysis & visualization</li>
     </ul>
   </div>
 
@@ -52,9 +53,8 @@ stylesheet: assets/css/style.scss
         Undergraduate Researcher
       </div>
       <ul style="padding-left: 1.2rem; text-align: left;">
-        <li>Computational astrophysics</li>
-        <li>Scientific computing & modeling</li>
-        <li>Data analysis & visualization</li>
+      <li><a href="https://www.linkedin.com/in/william-salazar-50b673264" target="_blank">LinkedIn</a>.</li>
+      <li><a href="https://github.com/willsalazar5221" target="_blank">GitHub</a>.</li>
       </ul>
     </div>
   </div>
